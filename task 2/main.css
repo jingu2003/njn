@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    background-color:black;
+    color:whitesmoke;
+}
+h1:hover{
+    color:black;
+    background-color:rgb(14, 206, 212);
+}
+
+.forms{
+    width: 100%;
+    background-color:skyblue;
+    border: 2px double royalblue;
+    border-color: black;
+    text-align: center;
+}
+input{
+    color: blue;
+}
+#logo{
+    text-align: center;
+    background-color:skyblue;
+    color:red;
+    font-family: 'Audiowide', cursive;
+}
+#email{
+    border-style: double;
+    border-color: black;
+}
+
+table,th,td{
+    border: 3px solid black;
+}
+
+    
